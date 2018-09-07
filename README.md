@@ -5,6 +5,4 @@ Creating a snapchat like filter by using opencv
 - [ ] build in tkinter
 - [x] basic filters
 
-![gif] (https://github.com/ninjakx/Snappy/blob/master/images/moustache_gif.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![gif](https://github.com/ninjakx/Snappy/blob/master/images/moustache_gif.gif)
